@@ -1,0 +1,72 @@
+﻿@model IEnumerable<FindMyDrug.Entities.Models.Drug>
+
+@{
+    ViewBag.PageTitle = "Dashboard";
+    ViewBag.CardTitle = "Dashboard";
+    Layout = "~/Views/Shared/_dashboard.cshtml";
+}
+
+<div class="row mb-4">
+
+    <!-- Users Count -->
+    <div class="col-lg-3 col-lg-4">
+        <div class="card text-white bg-info">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <i class="fas fa-users fa-2x"></i> Users
+                </h2>
+                <p class="card-text" style="font-size: 1.5rem;">@ViewBag.UserCount</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pharmacy Count -->
+    <div class="col-lg-3 col-lg-4">
+        <div class="card text-white bg-success">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <i class="fas fa-hospital fa-2x"></i> Pharmacies
+                </h2>
+                <p class="card-text" style="font-size: 1.5rem;">@ViewBag.PharmacyCount</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Drug Count -->
+    <div class="col-lg-3 col-lg-4">
+        <div class="card text-white bg-warning">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <i class="fas fa-pills fa-2x"></i> Drugs
+                </h2>
+                <p class="card-text" style="font-size: 1.5rem;">@ViewBag.DrugCount</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<h4>Last Drug</h4>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Drug Name</th>
+            <th>Pharmacy</th>
+            <th>Dosage</th>
+            <th>Price</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var drug in Model)
+        {
+        <tr>
+            <td>@drug.Name</td>
+            <td>@drug.Pharmacy.Name</td>
+            <td>@drug.Dosage</td>
+            <td>@drug.Price</td>
+            <td>@drug.Pharmacy.Address</td>
+        </tr>
+        }
+    </tbody>
+</table>

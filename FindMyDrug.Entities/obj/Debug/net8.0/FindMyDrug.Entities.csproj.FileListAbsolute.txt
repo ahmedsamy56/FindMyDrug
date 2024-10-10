@@ -1,0 +1,12 @@
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\bin\Debug\net8.0\FindMyDrug.Entities.deps.json
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\bin\Debug\net8.0\FindMyDrug.Entities.dll
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\bin\Debug\net8.0\FindMyDrug.Entities.pdb
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\FindMyDrug.Entities.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\FindMyDrug.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\FindMyDrug.Entities.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\FindMyDrug.Entities.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\FindMyDrug.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\FindMyDrug.Entities.dll
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\refint\FindMyDrug.Entities.dll
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\FindMyDrug.Entities.pdb
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.Entities\obj\Debug\net8.0\ref\FindMyDrug.Entities.dll

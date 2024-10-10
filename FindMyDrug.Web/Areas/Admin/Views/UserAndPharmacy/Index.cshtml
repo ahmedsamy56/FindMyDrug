@@ -1,0 +1,94 @@
+﻿@using FindMyDrug.Entities.Models
+@model List<ApplicationUser>
+
+@{
+    ViewData["Title"] = "Users and Pharmacies";
+    ViewBag.PageTitle = "Users and Pharmacies";
+    ViewBag.CardTitle = "All Users";
+    Layout = "~/Views/Shared/_dashboard.cshtml";
+}
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            @foreach (var user in Model)
+            {
+                <div class="col-md-6 mb-4">
+                    <div class="card bg-light">
+                        <div class="card-header bg-info">
+                            <h3 class="card-title text-white">@user.Name</h3>
+                            <div class="card-tools">
+                                <a href="#" class="btn btn-tool text-white" data-toggle="collapse" data-target="#pharmacies-@user.Id">
+                                    <i class="fas fa-eye"></i> View Pharmacies
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="card-body">
+                            <p><strong>Name:</strong> @user.Name</p>
+                            <p><strong>Email:</strong> @user.Email</p>
+
+                            <p><strong>Created At:</strong> @user.CreatedAt?.ToString("yyyy-MM-dd")</p>
+
+                            <div id="pharmacies-@user.Id" class="collapse">
+                                @if (user.pharmacies != null && user.pharmacies.Any())
+                                {
+                                    <div class="row mt-3">
+                                        @foreach (var pharmacy in user.pharmacies)
+                                        {
+                                            <div class="col-md-12 mb-2">
+                                                <!-- Pharmacy Card -->
+                                                <div class="card card-secondary">
+                                                    <div class="card-header bg-warning">
+                                                        <h5 class="card-title">@pharmacy.Name</h5>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p><strong>Address:</strong> @pharmacy.Address</p>
+                                                        <p><strong>Hotline:</strong> @pharmacy.HotLine</p>
+                                                        @if (pharmacy.IsOpen24Hrs)
+                                                        {
+                                                            <p><strong>Open:</strong> 24 Hours</p>
+                                                        }
+                                                        else
+                                                        {
+                                                            <p><strong>Open Hours:</strong> @pharmacy.OpenHour?.ToString(@"hh\:mm") - @pharmacy.CloseHour?.ToString(@"hh\:mm")</p>
+                                                        }
+                                                        <a href="/pharmaceutical/Pharmacy/View/@pharmacy.Id" class="btn btn-tool bg-info text-Dark">
+                                                            <i class="fas fa-eye"></i> View pharmacy
+                                                        </a>
+                                                    </div>
+                                                   
+                                                </div>
+                                                <!-- End of Pharmacy Card -->
+                                            </div>
+                                        }
+                                    </div>
+                                }
+                                else
+                                {
+                                    <p>No pharmacies available for this user.</p>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('[data-toggle="collapse"]').click(function () {
+                var icon = $(this).find('i');
+                if (icon.hasClass('fa-eye')) {
+                    icon.removeClass('fa-eye').addClass('fa-eye-slash');
+                } else {
+                    icon.removeClass('fa-eye-slash').addClass('fa-eye');
+                }
+            });
+        });
+    </script>
+}

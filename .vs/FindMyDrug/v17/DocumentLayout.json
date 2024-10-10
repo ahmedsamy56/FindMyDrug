@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18156E02-CC1D-4B13-BC4C-6758FF9DCE1B}|FindMyDrug.Entities\\FindMyDrug.Entities.csproj|c:\\users\\ahmed\\desktop\\findmydrug lab\\findmydrug\\findmydrug.entities\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18156E02-CC1D-4B13-BC4C-6758FF9DCE1B}|FindMyDrug.Entities\\FindMyDrug.Entities.csproj|solutionrelative:findmydrug.entities\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE99AD-7609-4338-A1F2-4478C777EB13}|FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj|c:\\users\\ahmed\\desktop\\findmydrug lab\\findmydrug\\findmydrug.utilities\\getsrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE99AD-7609-4338-A1F2-4478C777EB13}|FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj|solutionrelative:findmydrug.utilities\\getsrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE99AD-7609-4338-A1F2-4478C777EB13}|FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj|c:\\users\\ahmed\\desktop\\findmydrug lab\\findmydrug\\findmydrug.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE99AD-7609-4338-A1F2-4478C777EB13}|FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj|solutionrelative:findmydrug.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE99AD-7609-4338-A1F2-4478C777EB13}|FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj|c:\\users\\ahmed\\desktop\\findmydrug lab\\findmydrug\\findmydrug.utilities\\findmydrug.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CEE99AD-7609-4338-A1F2-4478C777EB13}|FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj|solutionrelative:findmydrug.utilities\\findmydrug.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC209A9-94A7-4184-8B3F-3B3E6AF66155}|FindMyDrug.Web\\FindMyDrug.Web.csproj|c:\\users\\ahmed\\desktop\\findmydrug lab\\findmydrug\\findmydrug.web\\areas\\visitor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BC209A9-94A7-4184-8B3F-3B3E6AF66155}|FindMyDrug.Web\\FindMyDrug.Web.csproj|solutionrelative:findmydrug.web\\areas\\visitor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18156E02-CC1D-4B13-BC4C-6758FF9DCE1B}|FindMyDrug.Entities\\FindMyDrug.Entities.csproj|c:\\users\\ahmed\\desktop\\findmydrug lab\\findmydrug\\findmydrug.entities\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18156E02-CC1D-4B13-BC4C-6758FF9DCE1B}|FindMyDrug.Entities\\FindMyDrug.Entities.csproj|solutionrelative:findmydrug.entities\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC209A9-94A7-4184-8B3F-3B3E6AF66155}|FindMyDrug.Web\\FindMyDrug.Web.csproj|c:\\users\\ahmed\\desktop\\findmydrug lab\\findmydrug\\findmydrug.web\\areas\\visitor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC209A9-94A7-4184-8B3F-3B3E6AF66155}|FindMyDrug.Web\\FindMyDrug.Web.csproj|solutionrelative:findmydrug.web\\areas\\visitor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Entities\\Models\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "FindMyDrug.Entities\\Models\\Pharmacy.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Entities\\Models\\Pharmacy.cs",
+              "RelativeToolTip": "FindMyDrug.Entities\\Models\\Pharmacy.cs",
+              "ViewState": "AgIAAAgAAADgMjMzMzM9wB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:49:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetSrc.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Utilities\\GetSrc.cs",
+              "RelativeDocumentMoniker": "FindMyDrug.Utilities\\GetSrc.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Utilities\\GetSrc.cs",
+              "RelativeToolTip": "FindMyDrug.Utilities\\GetSrc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:48:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Utilities\\EmailSender.cs",
+              "RelativeDocumentMoniker": "FindMyDrug.Utilities\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Utilities\\EmailSender.cs",
+              "RelativeToolTip": "FindMyDrug.Utilities\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:48:50.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindMyDrug.Utilities",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj",
+              "RelativeDocumentMoniker": "FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj",
+              "RelativeToolTip": "FindMyDrug.Utilities\\FindMyDrug.Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T18:48:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Drug.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Entities\\Models\\Drug.cs",
+              "RelativeDocumentMoniker": "FindMyDrug.Entities\\Models\\Drug.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Entities\\Models\\Drug.cs",
+              "RelativeToolTip": "FindMyDrug.Entities\\Models\\Drug.cs",
+              "ViewState": "AgIAAAMAAACwLzMzMzMbwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:44:25.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\Areas\\Visitor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FindMyDrug.Web\\Areas\\Visitor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\Areas\\Visitor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FindMyDrug.Web\\Areas\\Visitor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB0AAABAZmZmZmYkwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:43:27.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\Areas\\Visitor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FindMyDrug.Web\\Areas\\Visitor\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\Areas\\Visitor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FindMyDrug.Web\\Areas\\Visitor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:40:45.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

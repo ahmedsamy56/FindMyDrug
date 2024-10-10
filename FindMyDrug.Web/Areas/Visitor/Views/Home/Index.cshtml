@@ -1,0 +1,79 @@
+﻿@model IEnumerable<FindMyDrug.Entities.Models.Drug>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Find my Drug</title>
+    <link href="~/visitor/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <main class="table" id="customers_table">
+        <section class="table__header">
+            <h1>Find My Drug</h1>
+            <div class="input-group">
+                <input type="search" placeholder="Search Drug...">
+                <img src="~/visitor/images/search.png" alt="Search Icon">
+            </div>
+            <a href="/Identity/Account/Login">
+            <div class="Login">
+                <label for="Login" class="Login-btn" title="Login"></label>
+                <input type="checkbox" id="Login">
+                <div class="Login-options">
+                    <label>Login &nbsp; &#10140;</label>
+                </div>
+            </div>
+            </a>
+        </section>
+        <section class="table__body">
+            <table>
+                <thead>
+                    <tr>
+                        <th># <span class="icon-arrow">&UpArrow;</span></th>
+                        <th>Drug Name <span class="icon-arrow">&UpArrow;</span></th>
+                        <th>Pharmacy <span class="icon-arrow">&UpArrow;</span></th>
+                        <th>Dosage <span class="icon-arrow">&UpArrow;</span></th>
+                        <th>Price <span class="icon-arrow">&UpArrow;</span></th>
+                        <th>Address <span class="icon-arrow">&UpArrow;</span></th>
+                        <th>View <span class="icon-arrow">&UpArrow;</span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        int count = 1;
+                        foreach (var drug in Model)
+                        {
+                            <tr>
+                                <td>@count</td>
+                                <td>@drug.Name</td>
+                                <td>@drug.Pharmacy.Name</td>
+                                <td>@drug.Dosage</td>
+                                <td>@drug.Price</td>
+                                <td>@drug.Pharmacy.Address</td>
+                                <td>
+                                    <a href="/pharmaceutical/Pharmacy/View/@drug.PharmacyId">
+                                        <p class="status delivered">View</p>
+                                    </a>
+                                </td>
+                            </tr>
+                            count++;
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="6">No drugs available</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <script src="~/visitor/script.js"></script>
+</body>
+
+</html>

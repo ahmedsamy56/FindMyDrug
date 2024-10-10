@@ -1,0 +1,80 @@
+﻿@using FindMyDrug.Entities.Models
+@model IEnumerable<Drug>
+@{
+    ViewBag.PageTitle = "Drug Control";
+    ViewBag.CardTitle = "All Drugs";
+    Layout = "~/Views/Shared/_dashboard.cshtml";
+    int cnt = 1;
+}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+
+<table id="drugTable" class="display">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Dosage</th>
+            <th>Price</th>
+            <th>IsBlocked</th>
+            <th>IsAvailable</th>
+            <th>Pharmacy</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var drug in Model)
+        {
+            <tr>
+                <td>@cnt</td>
+                <td>@drug.Name</td>
+                <td>@drug.Dosage</td>
+                <td>@drug.Price</td>
+                <td>@drug.IsBlocked</td>
+                <td>@drug.IsAvailable</td>
+                <td>@drug.Pharmacy?.Name</td>
+                <td>
+                    <button class="btn btn-sm @(drug.IsBlocked ? "btn-danger" : "btn-success")" 
+                            onclick="toggleBlockStatus(@drug.Id)">
+                        <i class="fas @(drug.IsBlocked ? "fa-lock" : "fa-unlock")"></i> 
+                    </button>
+                </td>
+            </tr>
+            cnt++;
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#drugTable').DataTable({
+                "paging": true,     
+                "ordering": true,    
+                "searching": true    
+            });
+        });
+
+        function toggleBlockStatus(id) {
+            if (confirm("Are you sure you want to toggle block status?")) {
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("ToggleBlockStatusAction", "Drug")',
+                    data: { id: id },
+                    success: function (response) {
+                        if (response.success) {
+                            location.reload(); 
+                        } else {
+                            alert("Error updating block status.");
+                        }
+                    },
+                    error: function () {
+                        alert("Error processing request.");
+                    }
+                });
+            }
+        }
+    </script>
+}

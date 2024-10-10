@@ -1,0 +1,17 @@
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\bin\Debug\net8.0\FindMyDrug.DataAccess.deps.json
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\bin\Debug\net8.0\FindMyDrug.DataAccess.runtimeconfig.json
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\bin\Debug\net8.0\FindMyDrug.DataAccess.dll
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\bin\Debug\net8.0\FindMyDrug.DataAccess.pdb
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\bin\Debug\net8.0\FindMyDrug.Entities.dll
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\bin\Debug\net8.0\FindMyDrug.Entities.pdb
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDr.DF27EE88.Up2Date
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.dll
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\refint\FindMyDrug.DataAccess.dll
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.pdb
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\FindMyDrug.DataAccess.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\FindMyDrug lab\FindMyDrug\FindMyDrug.DataAccess\obj\Debug\net8.0\ref\FindMyDrug.DataAccess.dll

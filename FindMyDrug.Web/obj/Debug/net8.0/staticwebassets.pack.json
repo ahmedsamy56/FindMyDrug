@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FindMyDrug.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FindMyDrug.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\Images\\assets\\GetLink.png",
+      "PackagePath": "staticwebassets\\Images\\assets\\GetLink.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\Images\\assets\\share.png",
+      "PackagePath": "staticwebassets\\Images\\assets\\share.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\Images\\assets\\structureFile.jpg",
+      "PackagePath": "staticwebassets\\Images\\assets\\structureFile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\Editor\\js\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\Editor\\js\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dashboard\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\js\\Drug.js",
+      "PackagePath": "staticwebassets\\js\\Drug.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.material.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.material.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.material.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.material.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.uikit.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.uikit.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\datatables.uikit.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\datatables.uikit.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\jquery.datatables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\jquery.datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\jquery.datatables_themeroller.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.datatables_themeroller.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\css\\jquery.datatables_themeroller.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.datatables_themeroller.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.datatables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.material.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.material.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.material.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.material.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.uikit.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\datatables.uikit.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\datatables.uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\jquery.datatables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\jquery.datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\datatables\\js\\jquery.datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\jquery.datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\visitor\\images\\admin.png",
+      "PackagePath": "staticwebassets\\visitor\\images\\admin.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\visitor\\images\\export.png",
+      "PackagePath": "staticwebassets\\visitor\\images\\export.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\visitor\\images\\html_table.jpg",
+      "PackagePath": "staticwebassets\\visitor\\images\\html_table.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\visitor\\images\\pharmaceutical.jpg",
+      "PackagePath": "staticwebassets\\visitor\\images\\pharmaceutical.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\visitor\\images\\search.png",
+      "PackagePath": "staticwebassets\\visitor\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\visitor\\script.js",
+      "PackagePath": "staticwebassets\\visitor\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\FindMyDrug lab\\FindMyDrug\\FindMyDrug.Web\\wwwroot\\visitor\\style.css",
+      "PackagePath": "staticwebassets\\visitor\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FindMyDrug.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FindMyDrug.Web.props",
+      "PackagePath": "build\\FindMyDrug.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FindMyDrug.Web.props",
+      "PackagePath": "buildMultiTargeting\\FindMyDrug.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FindMyDrug.Web.props",
+      "PackagePath": "buildTransitive\\FindMyDrug.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,149 @@
+﻿@using FindMyDrug.Entities.Models;
+@model Pharmacy
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="card-title">Update Pharmacy</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Update" method="post" enctype="multipart/form-data">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="hidden" asp-for="ApplicationUserId" />
+                        <input type="hidden" asp-for="Img" />
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label"></label>
+                            <input asp-for="Name" class="form-control" placeholder="Enter pharmacy name" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label"></label>
+                            <input asp-for="Address" class="form-control" placeholder="Enter address" />
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="HotLine" class="form-label"></label>
+                            <input asp-for="HotLine" class="form-control" placeholder="Enter hotline number" />
+                            <span asp-validation-for="HotLine" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Location" class="form-label"></label>
+                            <input asp-for="Location" class="form-control" placeholder="Enter location" />
+                            <span asp-validation-for="Location" class="text-danger"></span>
+                            <a href="#" data-bs-toggle="modal" data-bs-target="#locationModal" class="d-block mt-2">How to add it?</a>
+                        </div>
+
+                        <!-- Modal for location guidance (remains unchanged) -->
+                        <!-- Modal -->
+                        <div class="modal fade" id="locationModal" tabindex="-1" aria-labelledby="locationModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="locationModalLabel">How to Add Location</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p>To add the location, please follow these steps:</p>
+                                        <ul>
+                                            <li>Open Google Maps and locate the pharmacy.</li>
+                                            <li>Click on the share button</li>
+                                            <a href="~/Images/assets/share.png" target="_blank">
+                                                <img src="~/Images/assets/share.png" alt="How to share?" width="300px" />
+                                            </a>
+                                            <li>Click on Embed Link and then Copy Link</li>
+                                            <a href="~/Images/assets/GetLink.png" target="_blank">
+                                                <img src="~/Images/assets/GetLink.png" alt="How to share?" width="300px" />
+                                            </a>
+                                            <li>Paste the text into the location field.</li>
+                                        </ul>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="mb-3">
+                            <label for="imageFile" class="form-label">Upload Image</label>
+                            <input asp-for="Img"  type="file" class="form-control" id="imgfile" name="file" value="\@Model.Img" />
+                            <span class="text-muted small">Upload a new pharmacy image</span>
+                            <img id="imagePreview" src="/@Model.Img" alt="Current Image" class="img-fluid mt-2" />
+                            <input type="hidden" asp-for="Img" value="@Model.Img" />
+                        </div>
+
+                        <div class="mb-3 form-check">
+                            <input asp-for="IsOpen24Hrs" class="form-check-input" type="checkbox" id="IsOpen24Hrs" />
+                            <label asp-for="IsOpen24Hrs" class="form-check-label">Open 24 Hours</label>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="OpenHour" class="form-label"></label>
+                            <input asp-for="OpenHour" type="time" class="form-control" id="OpenHour" />
+                            <span asp-validation-for="OpenHour" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="CloseHour" class="form-label"></label>
+                            <input asp-for="CloseHour" type="time" class="form-control" id="CloseHour" />
+                            <span asp-validation-for="CloseHour" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary">Update Pharmacy</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+
+        function toggleTimeFields() {
+            var is24HrsChecked = document.getElementById("IsOpen24Hrs").checked;
+            var openHourField = document.getElementById("OpenHour");
+            var closeHourField = document.getElementById("CloseHour");
+
+            openHourField.disabled = is24HrsChecked;
+            closeHourField.disabled = is24HrsChecked;
+        }
+
+        document.getElementById('imgfile').onchange = function (event) {
+            var reader = new FileReader();
+            reader.onload = function () {
+                var imgPreview = document.getElementById('imagePreview');
+                imgPreview.src = reader.result;
+                imgPreview.style.display = 'block'; // Show the image if it was hidden
+            };
+            reader.readAsDataURL(event.target.files[0]);
+        };
+
+        window.onload = function () {
+            toggleTimeFields();
+        };
+
+
+        document.getElementById("IsOpen24Hrs").addEventListener("change", toggleTimeFields);
+    </script>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}

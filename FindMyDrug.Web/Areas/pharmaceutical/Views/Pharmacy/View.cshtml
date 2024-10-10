@@ -1,0 +1,58 @@
+﻿@using FindMyDrug.Entities.Models;
+@using FindMyDrug.Utilities;
+@model Pharmacy
+@{
+    Layout = "_Layout";
+}
+
+
+<div class="container mt-5">
+    <h2 class="text-center text-primary mb-4">@Model.Name</h2>
+
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="card shadow-sm border-light">
+                <img src="/@Model.Img" alt="Pharmacy Image" class="card-img-top img-fluid rounded" />
+            </div>
+        </div>
+        <div class="col-md-6 mb-4">
+            <div class="card h-100 shadow-sm border-light">
+                <div class="card-body">
+                    <h4 class="card-title text-success">Details</h4>
+                    <p class="card-text"><strong>Address:</strong> @Model.Address</p>
+                    <p class="card-text"><strong>Hotline:</strong> @Model.HotLine</p>
+                    <p class="card-text"><strong>Status:</strong> @(Model.IsOpen24Hrs ? "Open 24 HRS" : $"Open from {Model.OpenHour} to {Model.CloseHour}")</p>
+                    <p class="card-text"><strong>Location:</strong></p>
+                    @{
+                        string locationLink = GetSrc.ForLocation(Model.Location);
+                    }
+                    <div class="google-map">
+                        <iframe src="@locationLink" width="100%" height="200" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @if (User.IsInRole(SD.pharmaceuticalRole))
+    {
+        <div class="mt-4 text-center" style="margin-bottom:10px; ">
+            <a href="@Url.Action("Index", "Home")" class="btn btn-primary btn-lg">Back to Pharmacies</a>
+        </div>
+    }
+    else if (User.IsInRole(SD.AdminRole))
+    {
+        <div class="mt-4 text-center" style="margin-bottom:10px; ">
+            <a href="/Admin/Home/Index" class="btn btn-primary btn-lg">Back to Dashboard</a>
+        </div>
+
+    }
+    else
+    {
+        <div class="mt-4 text-center" style="margin-bottom:10px; ">
+            <a href="/Visitor/Home/Index" class="btn btn-primary btn-lg">Back to Search</a>
+        </div>
+    }
+
+    
+</div>

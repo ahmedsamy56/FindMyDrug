@@ -1,0 +1,100 @@
+﻿@model FindMyDrug.Entities.Models.Drug
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "_Layout";
+}
+
+@section Style {
+    <style>
+        body {
+            background-color: #f8f9fa; 
+        }
+
+        .card {
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-header {
+            background-color: #007bff;
+            color: white;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .form-control {
+            border-radius: 5px;
+        }
+
+        .btn {
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn:hover {
+                filter: brightness(0.9);
+            }
+
+        .text-danger {
+            font-weight: bold;
+        }
+
+        .btn-group {
+            margin-bottom: 20px;
+        }
+    </style>
+}
+
+<div class="container text-center mt-5">
+    <div class="card shadow-sm mx-auto" style="max-width: 500px;">
+        <div class="card-header">
+            <h4>Update Drug Information</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Update" method="post" class="needs-validation" novalidate>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="PharmacyId" />
+                @{
+                  
+                }
+
+                <div class="form-group">
+                    <label for="Name">Drug Name</label>
+                    <input type="text" class="form-control" asp-for="Name" placeholder="Enter drug name" required />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="Dosage">Dosage</label>
+                    <input type="text" class="form-control" asp-for="Dosage" placeholder="Enter dosage" required />
+                    <span asp-validation-for="Dosage" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Price">Price</label>
+                    <input type="number" class="form-control" asp-for="Price" placeholder="Enter price" required step="1" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success" style=" margin: 10px;">
+                    <i class="fas fa-check"></i> Save Changes
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <div class="mt-3">
+        <a asp-area="Pharmaceutical" asp-controller="Drug" asp-action="Index" asp-route-id="@Model.PharmacyId" class="btn btn-secondary">
+            <i class="fas fa-arrow-left"></i> Back to List
+        </a>
+
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}
