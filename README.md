@@ -19,8 +19,10 @@ Pharmacists can list available drugs in their inventory, while patients can sear
 ## Technologies
 
 - **Frontend**:* HTML, CSS, JavaScript*
-- **Backend**: - *C# , ASP.NET Core , MVC Pattern*
+- **Backend**: - *C#, ASP.NET Core, MVC Pattern*
 - **Database**: *MS SQL Server*
+- **Design Patterns**: *Repository Pattern, Unit of Work Pattern, Dependency Injection*
+- **Architecture**: *N-Tier Architecture*
 - **Version Control**: GitHub (Project Repository: [FindMyDrug](https://github.com/ahmedsamy56/FindMyDrug))
 
 ## Usage
