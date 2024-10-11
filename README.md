@@ -4,7 +4,6 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Features](#features)
 - [Technologies](#technologies)
 - [Usage](#usage)
 - [Future Features](#future-features)
@@ -18,7 +17,7 @@ Pharmacists can list available drugs in their inventory, while patients can sear
 
 ## Technologies
 
-- **Frontend**:* HTML, CSS, JavaScript*
+- **Frontend**: *HTML, CSS, JavaScript*
 - **Backend**: - *C#, ASP.NET Core, MVC Pattern*
 - **Database**: *MS SQL Server*
 - **Design Patterns**: *Repository Pattern, Unit of Work Pattern, Dependency Injection*
